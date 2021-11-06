@@ -1,0 +1,21 @@
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 48px;
+  
+}
+.container-name{
+  height: 50px;
+}
+.container-main{
+  height: 480px;
+}
+.container-bud{
+  height: 50px;
+  padding-left: 100px;
+}
+a, h1, h2{
+  text-align: center;
+}
+
